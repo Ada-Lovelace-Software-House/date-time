@@ -1,0 +1,28 @@
+{
+  "name": "@ada/datetime",
+  "version": "1.0.0",
+  "description": "A set of dateTime functions",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "datetime",
+    "date"
+  ],
+  "author": "Ada Lovelace Team",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": ""
+}
