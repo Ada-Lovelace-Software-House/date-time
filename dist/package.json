@@ -7,7 +7,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/Ada-Lovelace-Software-House/date-time.git"
   },
   "files": [
     "lib",
@@ -23,6 +23,8 @@
   ],
   "author": "Ada Lovelace Team",
   "license": "MIT",
-  "bugs": {},
-  "homepage": ""
+  "bugs": {
+    "url": "https://github.com/Ada-Lovelace-Software-House/date-time/issues"
+  },
+  "homepage": "https://github.com/Ada-Lovelace-Software-House/date-time"
 }
