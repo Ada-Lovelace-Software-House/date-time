@@ -1,5 +1,5 @@
 {
-  "name": "@ada/datetime",
+  "name": "@ada-software/datetime",
   "version": "1.0.0",
   "description": "A set of dateTime functions",
   "main": "lib/es5/index.js",
